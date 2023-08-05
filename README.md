@@ -12,4 +12,5 @@ This template deploys an instance of [NocoDB](https://github.com/nocodb/nocodb) 
 - Deploy, and check out your new NocoDB instance!
 ## Links
 Nocodb - https://github.com/nocodb/nocodb
+
 Docs - https://docs.nocodb.com/
